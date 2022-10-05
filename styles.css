@@ -7,7 +7,7 @@ body {
 	width: 375px;
 	margin: 0 auto;
 	background-color: #FFFFFF;
-	font-family: 'Raleway';
+	font-family: 'Raleway', Optima, sans-serif;
 }
 
 header {
